@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44945#Valittuja-novelleja-I
 gutenberg_issued: '2014-02-17'
 gutenberg_type: Text
 identifiers:
