@@ -1,0 +1,41 @@
+_repo: Valittuja-novelleja-I_44945
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Leino, Kasimir
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6366'
+    url: http://www.gutenberg.org/2009/agents/6366
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2014-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44945'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French -- Translations into Finnish'
+- !lcsh 'French fiction -- Translations into Finnish'
+tableOfContents: Guy de Maupassant -- Isä -- Kuutamolla -- Vallankumous -- Susi --
+  Lapsi -- Anteeksianto -- Kuningatar Hortense -- Jalokivet -- Tarina pyhän Mikaelin
+  luostarilinnasta -- Joulukertomus -- Ristiäiset.
+title: Valittuja novelleja I
+url: http://www.gutenberg.org/ebooks/44945
